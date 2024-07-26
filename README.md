@@ -67,7 +67,7 @@ PureNotes/
 
 ## Mitwirken
 
-Wir freuen uns über Beiträge! Bitte lese unsere [CONTRIBUTING.md](CONTRIBUTING.md) für weitere Informationen darüber, wie du beitragen kannst.
+Wir freuen uns über Beiträge! Bitte lese unsere [CONTRIBUTING.md](https://github.com/jonas-is-coding/purenotes/blob/main/contributing.md) für weitere Informationen darüber, wie du beitragen kannst.
 
 ## Lizenz
 
