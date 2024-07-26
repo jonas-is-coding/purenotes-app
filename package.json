@@ -1,5 +1,5 @@
 {
-  "name": "pure-notes",
+  "name": "purenotes",
   "version": "1.0.0",
   "description": "Eine einfache Notizen App, entwickelt von Jonas Brahmst.",
   "main": "./out/main/index.js",
@@ -10,7 +10,7 @@
     "url": "https://github.com/jonas-is-coding/purenotes"
   },
   "bugs": {
-    "url": "https://github.com/DeinUsername/pure-notes/issues"
+    "url": "https://github.com/jonas-iscoding/purenotes/issues"
   },
   "license": "MIT",
   "keywords": [
