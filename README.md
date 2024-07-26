@@ -71,7 +71,7 @@ Wir freuen uns über Beiträge! Bitte lese unsere [CONTRIBUTING.md](CONTRIBUTING
 
 ## Lizenz
 
-Dieses Projekt steht unter der MIT Lizenz. Weitere Informationen findest du in der [LICENSE](LICENSE) Datei.
+Dieses Projekt steht unter der MIT Lizenz. Weitere Informationen findest du in der [LICENSE](https://github.com/jonas-is-coding/purenotes/blob/main/license.md) Datei.
 
 ## Kontakt
 
