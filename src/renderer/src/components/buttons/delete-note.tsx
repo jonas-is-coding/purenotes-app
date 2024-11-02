@@ -12,7 +12,7 @@ export const DeleteNote = ({...props}: ActionButtonProps) => {
 
     return (
         <ActionButton onClick={handleDelete} {...props}>
-            <Trash2 className="size-4 text-zinc-300" />
+            <Trash2 className="size-5 text-zinc-300" />
         </ActionButton>
     )
 }

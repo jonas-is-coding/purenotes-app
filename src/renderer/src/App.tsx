@@ -12,7 +12,6 @@ const App = () => {
 
   return (
     <>
-    <NavBar />
     <RootLayout>
       <SideBar className="p-2">
         <Header className="flex justify-between mt-1" />

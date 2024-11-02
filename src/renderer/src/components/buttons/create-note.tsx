@@ -12,7 +12,7 @@ export const CreateNote = ({...props}: ActionButtonProps) => {
 
     return (
         <ActionButton {...props} onClick={handleCreation}>
-            <FilePen className="size-4 text-zinc-300" />
+            <FilePen className="size-5 text-zinc-300" />
         </ActionButton>
     )
 }
