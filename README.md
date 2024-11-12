@@ -1,79 +1,79 @@
 # 📝 PureNotes
 
-## Einfache, elegante und leistungsstarke Notizen-App
+## Simple, Elegant, and Powerful Note-Taking App
 
-PureNotes ist eine minimalistische Notiz-App, die sich auf Einfachheit und Effizienz konzentriert. Mit einer klaren Benutzeroberfläche und leistungsstarken Funktionen bietet PureNotes alles, was du für das Erstellen, Verwalten und Organisieren deiner Notizen benötigst.
+PureNotes is a minimalist note-taking app focused on simplicity and efficiency. With a clear user interface and powerful features, PureNotes provides everything you need to create, manage, and organize your notes.
 
 ## Features
 
-- 🌟 **Einfaches Erstellen und Verwalten von Notizen**
-- 🚀 **Schnelle und intuitive Benutzeroberfläche**
-- 🎨 **Unterstützung für Markdown**
-- 🔍 **Inhaltsbasierte Suche**
-- 🌈 **Benutzerdefinierte Themes und Anpassungen**
-- ☁️ **Cloud-Synchronisation (bald verfügbar)**
+- 🌟 **Easy Creation and Management of Notes**
+- 🚀 **Fast and Intuitive User Interface**
+- 🎨 **Markdown Support**
+- 🔍 **Content-Based Search (coming soon)**
+- 🌈 **Benutzerdefinierte Themes und Anpassungen (coming soon)**
+- ☁️ **Cloud Synchronization (coming soon)**
 
 ## Installation
 
-### Voraussetzungen
+### Requirements
 
 - Node.js
 - npm
 
-### Schritte zur Installation
+### Installation Steps
 
-1. **Repository klonen**
+1. **Clone the Repository**
 
 ```bash
 git clone https://github.com/jonas-is-coding/purenotes.git
 cd purenotes
 ```
 
-2. **Abhängigkeiten installieren**
+2. **Install Dependencies**
 
 ```bash
-yarn
+npm i
 ```
 
-3. **App starten**
+3. **Keyboard Shortcuts**
 
 ```bash
-yarn dev
+npm run dev
 ```
 
 ## Tastenkombinationen
 
-- **Neue Notiz erstellen**: `CommandOrControl+N`
-- **Speichern**: `CommandOrControl+S`
-- **Suchen**: `CommandOrControl+F`
+- **Create New Note**: `CommandOrControl+N`
+- **Save**: `CommandOrControl+S`
+- **Search**: `CommandOrControl+F`
 
-## Architektur
+## Architecture
 
-PureNotes basiert auf [Electron](https://www.electronjs.org/), das es ermöglicht, plattformübergreifende Desktop-Apps mit Web-Technologien zu erstellen. Der Code ist in TypeScript geschrieben und verwendet moderne Web-Technologien und -Frameworks.
+PureNotes is built on [Electron](https://www.electronjs.org/), which allows the creation of cross-platform desktop apps using web technologies. The code is written in TypeScript and utilizes modern web technologies and frameworks.
 
-## Ordnerstruktur
+## Folder Structure
 
 ```
 PureNotes/
-├── resources/         # Ressourcen wie Icons und Logos
+├── resources/         # Resources such as icons and logos
 ├── src/
-│   ├── main/          # Hauptprozess Code
-│   ├── renderer/      # Rendererprozess Code
-│   ├── preload/       # Preload Skripte
-│   └── lib/           # Geschäftslogik und Helferfunktionen
-├── package.json       # npm Konfigurationsdatei
-└── README.md          # Diese Datei
+│   ├── main/          # Main process code
+│   ├── renderer/      # Renderer process code
+│   ├── preload/       # Preload scripts
+│   └── lib/           # Business logic and helper functions
+├── package.json       # npm configuration file
+└── README.md          # This file
 ```
 
-## Mitwirken
+## Contributing
 
-Wir freuen uns über Beiträge! Bitte lese unsere [CONTRIBUTING.md](https://github.com/jonas-is-coding/purenotes/blob/main/contributing.md) für weitere Informationen darüber, wie du beitragen kannst.
+We welcome contributions! Please read our [CONTRIBUTING.md](https://github.com/jonas-is-coding/purenotes/blob/main/contributing.md) for more information on how to contribute.
 
-## Lizenz
+## License
 
-Dieses Projekt steht unter der MIT Lizenz. Weitere Informationen findest du in der [LICENSE](https://github.com/jonas-is-coding/purenotes/blob/main/license.md) Datei.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/jonas-is-coding/purenotes/blob/main/license.md) file for more information.
 
-## Kontakt
+## Contact
 
 - **Github**: [jonas-is-coding](https://github.com/jonas-is-coding)
 - **Email**: jonasbrahmst@gmail.com
